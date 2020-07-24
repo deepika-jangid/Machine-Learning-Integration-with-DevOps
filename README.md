@@ -3,4 +3,6 @@ Today 90% of the Machine Learning Models does not succeed because of the reason 
 
 
 # Requirements 
+1. Should know about Machine Learning concepts for building the model.
+2. 
 
