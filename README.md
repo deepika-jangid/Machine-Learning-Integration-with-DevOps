@@ -5,5 +5,5 @@ Today 90% of the Machine Learning Models does not succeed because of the reason 
 # Requirements 
 1. Python
 2. Should know about Machine Learning concepts for building the model.
-2. To automate the model you should know about the concepts of DevOps like Jenkins, GIT , Github, etc.
+3. To automate the model you should know about the concepts of DevOps like Jenkins, GIT , Github, etc.
 
